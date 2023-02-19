@@ -20,7 +20,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogahd&theme=tokyonight&hide_border=true" alt="yogahd's GitHub streak"/>
   </a>
 </p>
-<a href="https://github.com/yogahd">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yogahd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yogahd&layout=compact&langs_count=8&theme=algolia"/>
+<a> 
+  <a href="https://github.com/Firgisotya"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Firgisotya&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Firgisotya"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Firgisotya&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/></a>
+  <br/>
 </a>
