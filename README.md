@@ -14,6 +14,12 @@
 - ⚡ Fun fact:  
 --> I like learning new things, especially those related to technology.
 
+### Hobbies
+- Solve programming problems.
+- Watch TV series and movies.
+- Playing games.
+- etc...
+
 ### Github Statistic
 <p align="center">
   <a href="https://github.com/yogahd">
