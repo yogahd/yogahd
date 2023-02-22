@@ -25,7 +25,7 @@
 <a href="https://www.linkedin.com/in/yoga-rahmahadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yoga.r_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-### Github Statistic
+### 💻 Github Statistic
 <p align="center">
   <a href="https://github.com/yogahd">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogahd&theme=tokyonight&hide_border=true" alt="yogahd's GitHub streak"/>
