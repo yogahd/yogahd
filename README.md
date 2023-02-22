@@ -7,18 +7,23 @@
 <div size='20px'> Hi! My name is Yoga Rahmahadi. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-### About Me
+### 💬 About Me
 - 🏫 I'm a student at the [State Polytechnic of Malang](http://jti.polinema.ac.id/).
 - 🌱 I'm currently studying independently at [Dicoding](https://www.dicoding.com/).
-- 💬 Ask me anything (I'll answer if I know).
+- 📫 Ask me anything (I'll answer if I know).
 - ⚡ Fun fact:  
 --> I like learning new things, especially those related to technology.
 
-### Hobbies
+### 📅 Hobbies
 - Solve programming problems.
 - Watch TV series and movies.
 - Playing games.
 - etc...
+
+### 🔗 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/yoga-rahmahadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yoga.r_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 ### Github Statistic
 <p align="center">
