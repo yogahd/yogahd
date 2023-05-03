@@ -2,8 +2,6 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.deta.dev/badge?page_id=yogahd.yogahd)
-
 <div size='20px'> My name is Yoga Rahmahadi. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
