@@ -7,7 +7,8 @@
 
 ### 💬 About Me
 - 🏫 I'm a student at the [State Polytechnic of Malang](http://jti.polinema.ac.id/).
-- 🌱 I'm currently studying independently at [Dicoding](https://www.dicoding.com/).
+- 📖 I'm graduate from independent studies at [Dicoding](https://www.dicoding.com/).
+- 💼 I'm currently doing an internship at [PT Perkebunan Nusantara XI](https://ptpn11.co.id/).
 - 📫 Ask me anything (I'll answer if I know).
 - ⚡ Fun fact:  
 --> I like learning new things, especially those related to technology.
