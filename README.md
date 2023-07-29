@@ -14,10 +14,9 @@
 --> I like learning new things, especially those related to technology.
 
 ### 📅 Hobbies
-- Solve programming problems.
-- Watch TV series and movies.
+- Football.
+- Watching movies.
 - Playing games.
-- etc...
 
 ### 🔗 Connect with Me
 <p align="left">
