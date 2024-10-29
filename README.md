@@ -6,7 +6,7 @@
 </div>
 
 ### 💬 About Me
-- 🏫 I'm a student at the [State Polytechnic of Malang](http://jti.polinema.ac.id/).
+- 🏫 I graduated from the [State Polytechnic of Malang](http://jti.polinema.ac.id/).
 - 📫 Ask me anything (I'll answer if I know).
 - ⚡ Fun fact:  
 --> I like learning new things, especially those related to technology.
